@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Houzing](https://github.com/shohjahon23/houzing-project).
 
-# can see the DEMO [Houzing]()
+# can see the DEMO [Houzing](https://houzing-by-shohjahon23.netlify.app)
 
 ## Available Scripts
 
